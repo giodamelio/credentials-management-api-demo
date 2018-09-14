@@ -1,0 +1,20 @@
+{
+  "name": "credentials-management-api-demo",
+  "version": "1.0.0",
+  "description": "A demo for the new credentials managment api",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gio d'Amelio <giodamelio@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giodamelio/credentials-management-api-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/giodamelio/credentials-management-api-demo/issues"
+  },
+  "homepage": "https://github.com/giodamelio/credentials-management-api-demo#readme"
+}
